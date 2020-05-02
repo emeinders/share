@@ -17,7 +17,7 @@
 |Build base|Build in a good central location in the dirt biome or forest if we can build a bed to set a new spawn point|
 |Preven corruption|Plant sunflowers at the ends of our base biome and build a tunnel around and under the base to prevent underground spread|
 |Get Angler NPC|Go to the beach and find him sleeping|
-|Upgrade armor|Mine more ore around are base biome|
+|Upgrade armor|Mine more ore around our base biome|
 |Craft Frostburn Arrows|Mine ice blocks and make ice torches, then craft arrows with wood & stone.  Use arrows + ice torches to make Frostburn arrows
 |Craft bows|Use whatever metal we can get, to make better bows|
 |Boss arena|Build a boss arena a little distant from our base with planter boxes or platforms|
