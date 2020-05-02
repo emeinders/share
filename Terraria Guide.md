@@ -6,9 +6,14 @@
 - Shift + click out of chest to trash items
 
 ## Progression Steps
+
 - Get full cactus armor
 - Get more wood
+- Build more housing for NPCs
+- Build base
+- Plant sun flowers and make tunnel under/around the base to prevent corruption spread
 - Mine more ore horizontally at our base
+- Craft better metal armor
 - Mine ice blocks and make ice torches
 - Craft Frostburn arrows
 - Craft good bows
@@ -18,3 +23,4 @@
 - Craft bombs *or* buy purification powder from Dryad to break corruption blocks
 - Farm corruption and break 2 hearts/orbs making meteor drop
 - Find meteor crater, use bombs to mine meteorite
+- Break one more heart/orb in corruption to summon the next boss
