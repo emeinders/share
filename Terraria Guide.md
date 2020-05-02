@@ -12,6 +12,7 @@
 - Build more housing for NPCs
 - Build base
 - Plant sun flowers and make tunnel under/around the base to prevent corruption spread
+- Go to ocean to get Angler NPC
 - Mine more ore horizontally at our base
 - Craft better metal armor
 - Mine ice blocks and make ice torches
@@ -23,4 +24,5 @@
 - Craft bombs *or* buy purification powder from Dryad to break corruption blocks
 - Farm corruption and break 2 hearts/orbs making meteor drop
 - Find meteor crater, use bombs to mine meteorite
+- Farm Forest biome and craft yoyo from vine, spore, and stinger
 - Break one more heart/orb in corruption to summon the next boss
