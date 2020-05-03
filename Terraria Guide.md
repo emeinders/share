@@ -11,7 +11,6 @@
 
 |To-Do|Description|
 |--|--|
-|Cactus armor|Chop down cacti from desert biome|
 |Prevent corruption|Plant sunflowers at the ends of our base biome and build a tunnel around and under the base to prevent underground spread|
 |Get Angler NPC|Go to the beach and find him sleeping|
 |Upgrade armor|Mine more ore around our base biome|
